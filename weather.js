@@ -8,9 +8,21 @@ fs.readFile('api_key', 'utf8', function (err,data) {
   console.log(data);
   var apikey = data;
   init_weather(apikey);
+  init_forecast(apikey);
 });
 
 var weather_today;
+var weather_forecast;
+
+function init_forecast(apikey)
+{
+  gothenburg_forecast_request =  "http://api.openweathermap.org/data/2.5/forecast?id=2711533&appid=" + apikey
+  request(gothenburg_forecast_request, function (error, response, body) {
+    if (!error && response.statusCode == 200) {
+        weather_forecast = JSON.parse(body);
+     }
+    })
+}
 
 function init_weather(apikey)
 {
@@ -50,9 +62,25 @@ function map_weather(weather_id)
   }
 }
 
+
+
 function today()
 {
   return map_weather(weather_today.weather[0].id);
 }
 
+function isNoon(forecast)
+{
+  return forecast.dt_txt.includes("12:00");
+}
+
+function forecast()
+{
+  
+  noon_only =  weather_forecast.list.filter(isNoon);
+  return noon_only.map(function (forecast) { return forecast.weather[0].id }).map(map_weather);
+}
+
+
 exports.today = today; 
+exports.forecast = forecast;
