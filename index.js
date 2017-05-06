@@ -2,8 +2,6 @@ var express = require('express')
 var request = require('request')
 
 var fs = require('fs')
-var api_key 
-var gothenburg_today_request;
 
 
 fs.readFile('api_key', 'utf8', function (err,data) {
@@ -11,9 +9,22 @@ fs.readFile('api_key', 'utf8', function (err,data) {
     return console.log(err);
   }
   console.log(data);
-  api_key = data;
-  gothenburg_today_request =  "http://api.openweathermap.org/data/2.5/weather?id=2711533&appid=" + api_key
+  var apikey = data;
+  init_weather(apikey);
 });
+
+var weather_today;
+
+function init_weather(apikey)
+{
+  gothenburg_today_request =  "http://api.openweathermap.org/data/2.5/weather?id=2711533&appid=" + apikey
+  request(gothenburg_today_request, function (error, response, body) {
+    if (!error && response.statusCode == 200) {
+        weather_today = body;
+     }
+    })
+}
+
 
 var app = express()
 
@@ -23,11 +34,7 @@ app.get('/', function (req, res) {
 })
 
 app.get('/test', function (req, res) {
-  request(gothenburg_today_request, function (error, response, body) {
-    if (!error && response.statusCode == 200) {
-        res.send(body) // Print the google web page.
-     }
-    })
+ res.send(weather_today);
 })
 
 
