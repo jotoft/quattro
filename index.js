@@ -15,8 +15,8 @@ app.get('/test', function (req, res) {
  res.send(weather.forecast());
 })
 
-app.get('/activities', function(req, res) {
- res.send(activities.by_keywords(weather.today()));
+app.get('/activities/:city', function(req, res) {
+ res.send(activities.by_location_and_keywords(req.params.city, weather.today()));
 })
 
 app.listen(3000, function () {
