@@ -1,0 +1,530 @@
+{
+
+activity
+
+[
+
+{
+UID: "1",
+image: "1.jpg",
+city: "Gothenburg",
+keyword: "Sunny Cloudy Rainy Windy",
+title: "Liseberg",
+decription: "Liseberg is an amusement park located in the district Heden in Gothenburg. The park is run as a public company, wholly owned by the City of Gothenburg. It was opened for the Gothenburg Exhibition May 8, 1923",
+url: "https://www.liseberg.se/"
+},
+
+
+
+{
+UID: "2",
+image: "2.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Universeum",
+decription: "Universeum is a science center located at Cross Road in the southern part of central Gothenburg. The building, designed by Gert Wingårdh, Wingårdh architectural office, located next to the Museum of World Cultures and the Liseberg",
+url: "http://www.universeum.se"
+},
+
+
+{
+UID: "3",
+image: "3.jpg",
+city: "Gothenburg",
+keyword: "Sunny Cloudy",
+title: "Trädgårdsföreningen",
+decription: "Garden Society is a park in central Gothenburg, bounded by New avenue, moat, Southern way and Ullevigatan. The park now has a rose garden, greenhouses, palm house and the shops, cafes and an outdoor stage for various behavior",
+url: "http://www.tradgardsforeningen.se"
+},
+
+
+{
+UID: "4",
+image: "4.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Göteborg Skärgård",
+decription: "Gothenburg archipelago usually divided into northern and southern archipelago. The southern archipelago is located in the province Vastergotland and is part of the municipality of Gothenburg, while the northern archipelago located in the province Bohuslän and mostly included in Öckerö Municipality",
+url: "http://www.goteborg.com/skargard/"
+},
+
+{
+UID: "5",
+image: "5.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Göteborg Konstmuseum",
+decription: "Gothenburg Museum is Sweden's leading museum of Nordic 1880s and 1890s Century but its collections also include international art, mainly from Europe and the US from the 1400s to the present day",
+url: "http://goteborgskonstmuseum.se/"
+},
+
+
+
+
+{
+UID: "6",
+image: "6.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Sunny Windy",
+title: "Nya Älvsborg",
+decription: "New Älvsborg Älvsborg fortress or just Älvsborgsbron, is a fortress on Cemetery Island in Älvsborgsbron Fjord in Gota river estuary, at the entrance to Gothenburg harbor. The fortress was built in 1653 to defend the city against the Danish fleet",
+url: "http://www.alvsborgsfastning.se/"
+},
+
+
+{
+UID: "7",
+image: "7.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Göteborgs Maritima Centrum",
+decription: "Maritiman - Maritiman, a few steps from the Opera House, is the world's largest floating ship museum. Gothenburg ever since the city was founded has been a port city. After the shipbuilding crisis in the 1970s was the inner harbor empty and deserted",
+url: "http://www.maritiman.se/"
+},
+
+
+{
+UID: "8",
+image: "8.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Göteborgsoperan",
+decription: "Gothenburg Museum is Sweden's leading museum of Nordic 1880s and 1890s Century but its collections also include international art, mainly from Europe and the US from the 1400s to the present day",
+url: "http://sv.opera.se/"
+},
+
+
+
+
+{
+UID: "9",
+image: "9.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Skansen Kronan",
+decription: "Skansen Crown is a fortification from the late 1600s on Risåsberget in Gothenburg. It is a national monument since January 25, 1935 and is currently used as a function room, restaurant and for various public events",
+url: "http://skansenkronan.se"
+},
+
+
+
+
+{
+UID: "10",
+image: "10.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Volvo Museum",
+decription: "Volvo Museum is located in Arendal on Hisingen in Gothenburg. The museum contains a collection of cars, trucks, buses, tractors, engines and aircraft engines of the Volvo brand - from the earliest models to today.",
+url: "http://www.volvomuseum.com/se/"
+},
+
+
+{
+UID: "11",
+image: "11.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy Sunny",
+title: "Feskekôrka",
+decription: "Feskekôrka, originally Fiskehallen, is a fish and seafood market in the center of Gothenburg. They are located along Rosenlundsgatan at Rosenlund Canal and close to Rosenlund Bridge. Property designation is empty 1 in block 70 Fiskehallen",
+url: "http://feskekörka.se/"
+},
+
+{
+UID: "12",
+image: "12.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Göteborgs Stadsmuseum",
+decription: "Gothenburg City Museum is a municipal museum of the city of Gothenburg and its history. It is located in the East India House which occupies an entire block at Norra Hamngatan in Gothenburg.",
+url: "http://goteborgsstadsmuseum.se/"
+},
+
+{
+UID: "13",
+image: "13.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Masthuggskyrkan",
+decription: "Masthuggskyrkan is a church at large back street in the district Stigberget, Gothenburg. The church has a very prominent position on the mountain and is one of the city's major attractions. "Masthuggskyrkan is one of the most urgöteborgska buildings".",
+url: "http://www.svenskakyrkan.se/masthugg"
+},
+
+
+{
+UID: "14",
+image: "14.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Delsjön",
+decription: "Delsjön, consists of two connected lakes, Great and Little Delsjön in eastern Gothenburg. Delsjö basin form a system with 13 lakes. Large Delsjön have frequented bathing in its northwestern part.",
+url: "http://www.goteborg.com/delsjon/"
+},
+
+{
+UID: "15",
+image: "15.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Oscar Fredriks Kyrka",
+decription: "Oscar Fredriks Church is a church in the district Olivedal in Gothenburg. The church was built on the mountain Dahlin, for merchant Samuel Dahlin who had a shipping company and several lumber yards in the area where the First Street today is routed",
+url: "https://www.svenskakyrkan.se/oscarfredrik"
+},
+
+{
+UID: "16",
+image: "16.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Världskulturmuseet",
+decription: "World Culture Museum is a museum in Gothenburg, part of the State Agency National Museums of World Culture, together with the three Stockholm museums Ethnographic Museum, East Asian Museum and the Museum",
+url: "http://www.varldskulturmuseerna.se/varldskulturmuseet/"
+},
+
+
+{
+UID: "17",
+image: "17.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Röhriska Museet",
+decription: "Röhsska Museum, formerly Röhsska Museum, is a municipally owned museum in Gothenburg for fashion, design and crafts, which opened in 1916. Röhsska museum received in 1997 by the State with the task of coordinating national museums for design and crafts",
+url: "http://rohsska.se/"
+},
+
+
+{
+UID: "18",
+image: "18.jpg",
+city: "Gothenburg",
+keyword: "Sunny Cloudy",
+title: "Göteborgs Botaniska Trädgård",
+decription: "Gothenburg Botanical Garden and the Botanical neighborhood Änggården in Gothenburg - the former estate Large Änggården",
+url: "http://www.botaniska.se"
+},
+
+{
+UID: "19",
+image: "19.jpg",
+city: "Gothenburg",
+keyword: "Sunny Cloudy Rainy Windy",
+title: "Hisingen",
+decription: "Hisingen is to the surface Sweden's fifth largest island - after Gotland and Oland, Södertörn and Orust - and the second most populated. It is surrounded by the Gota River to the south and east, Northern River in the north and the Kattegat the west.",
+url: "http://www.goteborg.com/hisingen/"
+},
+
+
+{
+UID: "21",
+image: "21.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy Sunny",
+title: "Skansen Lejonet",
+decription: "Skansen Westgötha Leijon, colloquially Skansen Lion or oldest name Gullberg Skantz, located on Gullberget at Gullbergsvass in Gothenburg. It is one of two försvarsskansar built in the late 1600s by Erik Dahlbergh.",
+url: "http://www.skansenlejonetfestvåning.se/"
+},
+
+{
+UID: "22",
+image: "22.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Vinga",
+decription: "Vinga is a lighthouse island in the Gothenburg archipelago in the Kattegat. The island is located in Styrsö parish in West and belongs to the municipality of Gothenburg. Vinga is the municipality's westernmost area of ??land, situated about ten miles from the city center.",
+url: "www.vingaofsweden.se/"
+},
+
+
+{
+UID: "23",
+image: "23.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Lilla Bommen (Utkiken)",
+decription: "Little Boom, commonly Skanskaskrapan or lipstick, am a 22-story building in Gothenburg. This tall red and white striped skyscraper located at the Gota River, near Goteborg and Götaälvbron, in the district Gullbergsvass in central Gothenburg",
+url: "http://www.goteborg.com/en/gotheborgsutkiken/"
+},
+
+
+{
+UID: "24",
+image: "24.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Göteborgs Koncerthus",
+decription: "Gothenburg Concert Hall is located at the Gota site's southwestern part. It was completed in 1935 and replaced the former concert hall on the moor which burned down in 1928.",
+url: "https://www.gso.se/"
+},
+
+
+{
+UID: "25",
+image: "25.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Göteborgs Konsthall",
+decription: "Göteborgs Konsthall is a municipal art gallery at Götaplatsen in central Gothenburg, the Swedish and international contemporary art and is housed in a classical building dating from 1923. Annually presented around six exhibitions.",
+url: "http://www.konsthallen.goteborg.se/"
+},
+
+
+{
+UID: "26",
+image: "26.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Donsö",
+decription: "Donsö is a locality in the municipality of Gothenburg and the island in the Gothenburg archipelago. Donsö is 16 kilometers southwest of the center of Gothenburg and has 1407 inhabitants.",
+url: "http://www.goteborg.com/donso/"
+},
+
+{
+UID: "27",
+image: "27.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Slottskogen",
+decription: "Castle Forest, alternatively Castle Forest Park, is a 137 hectare park and the neighborhood just south of Gothenburg city center.",
+url: "http://www.goteborg.se/slottsskogen"
+},
+
+
+
+{
+UID: "28",
+image: "28.jpg",
+city: "Gothenburg",
+keyword: "Sunny Cloudy",
+title: "Bohus Fästning",
+decription: "Bohus fortress is now a ruin of a fortress, which was built in 1308 to strengthen the defense of Norway's contemporary southern border.",
+url: "http://www.bohusfastning.com/sv/"
+},
+
+
+{
+UID: "29",
+image: "29.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Ostindiefararen Götheborg",
+decription: "Götheborg is a replica of the East Indiaman of the same name, which in 1745 ran aground and sank off the entrance to the Gothenburg harbor. Götheborg is the world's largest ocean classed sailing ships built of wood",
+url: "http://www.soic.se/"
+},
+
+
+{
+UID: "30",
+image: "30.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Gunnebo Slott",
+decription: "Gunnebo House is located in the northeastern part of the municipality of Mölndal in Fässbergs parish, between Mölndal and Pixbo. It is close Rådasjön and Stensjön.",
+url: "http://www.gunneboslott.se"
+},
+
+
+{
+UID: "31",
+image: "31.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Sjöfartsmuseet Akvariet",
+decription: "Maritime Museum, originally just Maritime Museum, Gothenburg is located in the Old Shipyard Park at Stigbergstorget in the third quarter bladder in Goteborg. Next to the museum stands Sailor Tower.",
+url: "http://www.sjofartsmuseetakvariet.se/"
+},
+
+{
+UID: "33",
+image: "33.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Göteborgs Naturhistoriska Museeum",
+decription: "Gothenburg Natural History Museum is a natural history museum, located at an altitude of Castle Forest just above Linnéplatsen, a height previously called Olivedalsgatan height or Oakhill.",
+url: "http://www.gnm.se"
+},
+
+
+
+{
+UID: "34",
+image: "34.jpg",
+city: "Gothenburg",
+keyword: "Rainy Windy Snowy Cloudy",
+title: "Röda Sten Konsthall",
+decription: "Red Stone Art Gallery is an art gallery located at the Red Stone, the Bronze Älvsborgsbron southern stronghold at South River Bank, in Gothenburg.",
+url: "https://www.rodasten.com/"
+},
+
+
+{
+UID: "36",
+image: "36.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Palmhuset, Göteborg",
+decription: "Palm House is a large greenhouse built of cast-iron and glass in the Garden Society of Gothenburg. It was built in 1878 in the Crystal Palace in Hyde Park in London as a model. Palm house has an area of ??nearly 1000 square meters.",
+url: "http://www.tradgardsforeningen.se/wps/portal/enhetssida/tradgardsforeningen/palmhuset"
+},
+
+
+{
+UID: "37",
+image: "37.jpg",
+city: "Gothenburg",
+keyword: "Sunny Snowy",
+title: "Kungsparken, Göteborg",
+decription: "King's Park, originally the Royal Sports Park, is a 13-hectare park, behind the Grand Theater at the Avenue in Gothenburg, which encircles most of the new avenue, and constitutes a so-called park girdle.",
+url: "http://www.goteborg.com/en/kungsparken/"
+},
+
+
+{
+UID: "38",
+image: "38.jpg",
+city: "Gothenburg",
+keyword: "Sunny Cloudy Rainy Windy Snowy",
+title: "Gustav Adolfs Torg, Göteborg",
+decription: "Gustaf Adolfs Square is located in the North district in central Gothenburg at Great Harbor Canal. It was called the Main Square or the Main Square until 1854 when Bengt Erland Fogelbergs statue of the city founder, King Gustav II Adolf, was placed on the Square",
+url: "http://www.goteborg.com/gustaf-adolfs-torg/"
+},
+
+
+{
+UID: "40",
+image: "40.jpg",
+city: "Gothenburg",
+keyword: "Sunny Cloudy",
+title: "Älvsborg Fästning",
+decription: "Älvsborg fortress, with its main facility Oscar II fort, is a now disused Swedish fortification located in Gothenburg, at the Gota river estuary.",
+url: "www.alvsborgsfastning.se/"
+},
+
+
+{
+UID: "41",
+image: "41.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Barnens Zoo",
+decription: "As part of Slottsskogens Zoo's Children's Zoo a place where kids in a fun way to learn about animals and nature. Here they can meet various Swedish native breeds, such Gutefår, Jämtlandsget Mellerud Rabbit and Orust Chicken. This year, children can once again go into a pasture for closer acquainted with the animals",
+url: "https://www.barnsajten.se/aktiviteter/vastra-gotalands-lan/goteborg/slottsskogen-med-barnens-zoo/"
+},
+
+
+
+
+{
+UID: "42",
+image: "42.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Statens Museer För Världskultur",
+decription: "World Museums are a state museum agency with four museums.",
+url: "http://www.varldskulturmuseerna.se/"
+},
+
+
+{
+UID: "43",
+image: "43.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Aeroseum",
+decription: "Aeroseum is a military history museum located in the Save north of Gothenburg. The museum, which was inaugurated on 15 May 2005 located in the former Gota flygflottiljs underground hangar. Berg The hangar was a total of five in the Air Force.",
+url: "http://www.aeroseum.se/"
+},
+
+
+{
+UID: "44",
+image: "44.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Gothenburg Escape Game",
+decription: "Gothenburg Escape Game offers adventure game "in real life" that is both challenging and exciting. Perform the challenge by finding clues and solving puzzles within the time limit.",
+url: "http://www.gotescape.se/sv/start"
+},
+
+
+{
+UID: "45",
+image: "45.jpg",
+city: "Gothenburg",
+keyword: "Sunny Cloudy",
+title: "Stora Nygatan 17 ½",
+decription: "Stora Nygatan 17 ½ is an unofficial location address in the district within the moat in Gothenburg. It's Gothenburg single address space that does not have a whole street number. Today there are psychiatric clinic",
+url: "https://sv.wikipedia.org/wiki/Stora_Nygatan_17_%C2%BD"
+}
+
+
+{
+UID: "46",
+image: "46.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Drottning Kristinas Jaktslott",
+decription: "Queen Christina's Hunting Palace is a half-timbered house in the block 61, Cane Throw Comforter, the mountain Otterhällan in the district within the moat in central Gothenburg. The street address is Otterhällegatan 16",
+url: "https://drottningkristinasjaktslott.se/"
+},
+
+
+{
+UID: "47",
+image: "47.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Paddan",
+decription: "Climb aboard our sightseeing boats in the city at Kungsportsplatsen and see the old moat and canals that date from the 1600s, and the history of Gothenburg construction and defense.",
+url: "http://www.stromma.se/Goteborg/Sightseeing/Batsightseeing/Rundtur-Paddan/"
+},
+
+
+{
+UID: "48",
+image: "48.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Segway Center",
+decription: "Segway Center, located at the Castle Forest in Gothenburg, opens for fun Segway tours of the park's many winding roads. Nearby is plenty to see and do during your turn, for example, you can stop and watch the seals.",
+url: "http://www.segwaycenter.se"
+},
+
+
+
+{
+UID: "49",
+image: "49.jpg",
+city: "Gothenburg",
+keyword: "Sunny Cloudy",
+title: "Haga",
+decription: "Haga is one of Gothenburg's oldest neighborhoods, and its name comes from the pastures that were here in the 1600s. Nowadays Haga's pedestrianized streets lined with small cafes and shops interspersed in the Gothenburg Typical governor houses.",
+url: "http://www.goteborg.com/haga/"
+},
+
+
+
+
+{
+UID: "50",
+image: "50.jpg",
+city: "Gothenburg",
+keyword: "Sunny",
+title: "Lejontrappan",
+decription: "Lejontrappan at Great Harbor Canal is a popular place to sit in when the sun heats. From here you have many Instagram photo taken over the wake view over the Great Harbor Canal.",
+url: "http://www.goteborgkonst.com/?post_type=konstverk&p=3193"
+},
+
+
+{
+UID: "51",
+image: "51.jpg",
+city: "Gothenburg",
+keyword: "Cloudy Rainy Windy",
+title: "Nordstan",
+decription: "Welcome to hundreds of shops, cafes and restaurants - in the city!",
+url: "http://nordstan.se/"
+}
+
+]	
+
+}
