@@ -1,0 +1,22 @@
+{
+  "name": "quattro",
+  "version": "1.0.0",
+  "description": "weather activity app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotoft/quattro.git"
+  },
+  "author": "Johan Toft, Joanne Lau, Jonas Sjöblom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotoft/quattro/issues"
+  },
+  "homepage": "https://github.com/jotoft/quattro#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
