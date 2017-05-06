@@ -1,11 +1,6 @@
-var express = require('express')
+var fs = require('fs')
 var request = require('request')
 
-var fs = require('fs')
-
-var weather = require('./weather')
-
-/*
 fs.readFile('api_key', 'utf8', function (err,data) {
   if (err) {
     return console.log(err);
@@ -26,20 +21,11 @@ function init_weather(apikey)
      }
     })
 }
-*/
-
-var app = express()
 
 
-app.get('/', function (req, res) {
-  res.send('Hello World!')
-})
+function today()
+{
+  return weather_today;
+}
 
-app.get('/test', function (req, res) {
- res.send(weather.today());
-})
-
-
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!')
-})
+exports.today = today; 
