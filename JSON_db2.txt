@@ -8,7 +8,7 @@
 "UID": "1",
 "image": "1.jpg",
 "city": "Gothenburg",
-"keyword": ["Sunny, "Cloudy", "Rainy, "Windy"],
+"keyword": ["Sunny", "Cloudy", "Rainy, "Windy"],
 "title": "Liseberg",
 "description": "Liseberg is an amusement park located in the district Heden in Gothenburg. The park is run as a public company, wholly owned by the City of Gothenburg. It was opened for the Gothenburg Exhibition May 8, 1923",
 "url": "https://www.liseberg.se/"
@@ -523,6 +523,161 @@
 "title": "Nordstan",
 "description": "Welcome to hundreds of shops, cafes and restaurants - in the city!",
 "url": "http://nordstan.se/"
+},
+
+################# 
+
+
+
+{
+"UID": "52",
+"image": "52.jpg",
+"city": "Sydney",
+"keyword": ["Sunny", "Rainy", "Snowy", "Cloudy", "Windy"],
+"title": "Hubert",
+"description": "It’s Sydney’s hottest new restaurant. Gone are the days when the chicken was the thing not to order. Back then it often came dry and flavourless. Now, chicken’s often the best thing on the menu.",
+"url": "http://www.restauranthubert.com"
+},
+
+
+{
+"UID": "53",
+"image": "53.jpg",
+"city": "Sydney",
+"keyword": ["Sunny"],
+"title": "Bondi Icebergs Club",
+"description": "It’s the most photographed ocean pool in Australia – at Sydney’s most famous beach – which makes the 50-metre saltwater pool a popular spot for sunbathers and a bottleneck spot on the Bondi to Coogee walk.",
+"url": "https://icebergs.com.au/swimming-pool/"
+},
+
+
+{
+"UID": "53",
+"image": "53.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny"],
+"title": "Bondi Icebergs Club",
+"description": "It’s the most photographed ocean pool in Australia – at Sydney’s most famous beach – which makes the 50-metre saltwater pool a popular spot for sunbathers and a bottleneck spot on the Bondi to Coogee walk.",
+"url": "https://icebergs.com.au/swimming-pool/"
+},
+
+
+{
+"UID": "54",
+"image": "54.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny"],
+"title": "Take a picnic to the Botanic Gardens",
+"description": "Thought to be one of the oldest public gardens in the Southern Hemisphere, Sydney's Royal Botanic Gardens date back to 1810 and over the years the 30-hectare oasis has withstood fires, cattle grazing, invasions of flying foxes, a windmill, an aviary, and even a zoo.",
+"url": "https://www.rbgsyd.nsw.gov.au/"
+},
+
+
+
+{
+"UID": "55",
+"image": "55.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny"],
+"title": "The Royal National Park",
+"description": "Whether you want to swim, trek, picnic, swim, bike ride, swim or just GTFO of Sydney for the day, the Royal National Park will provide an outdoors, adventure-filled day away.",
+"url": "http://www.nationalparks.nsw.gov.au/visit-a-park/parks/royal-national-park"
+},
+
+
+{
+"UID": "56",
+"image": "56.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny", "Cloudy"],
+"title": "Play lawn bowls",
+"description": "Before you worry about what’s inside this club, note its location and views. Clovelly Bowling Club’s uninterrupted panoramic views of the Pacific Ocean are so beautiful they may even distract you from keeping your eye on the jack.",
+"url": "https://www.clovellybowlingclub.com.au/"
+},
+
+
+{
+"UID": "57",
+"image": "57.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny"],
+"title": "Spot blue gropers at Gordon's Bay",
+"description": "South of Clovelly Beach and north of Coogee Beach, Gordon's Bay is a secluded location created by the deeply incised gully and sheer sandstone headlands and make it a great spot for snorkelling.",
+"url": "http://www.sydney.com/destinations/sydney/sydney-east/coogee/attractions/gordons-bay"
+},
+
+{
+"UID": "58",
+"image": "58.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny", "Cloudy"],
+"title": "Taronga Zoo",
+"description": "Taronga Zoo boasts some of the best harbour views in the city, and as you walk along its wide, snaking paths you’ll spot the Bridge and Sydney Opera House as often as you spot the wildlife.",
+"url": "https://taronga.org.au/"
+},
+
+
+{
+"UID": "59",
+"image": "59.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny"],
+"title": "Hacienda Bar Sydney",
+"description": "Hacienda is capitalising on incredible harbour views that stretch from the ferry wharves at the Quay to the Bridge by creating a beautiful space filled with soft lounges, fake vines, hanging garlands and gentle orb lighting.",
+"url": "https://haciendasydney.com.au/"
+},
+
+
+{
+"UID": "60",
+"image": "60.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny", "Cloudy"],
+"title": "BridgeClimb",
+"description": "Yes, it’s expensive. Yes, you have to wear an unflattering grey jumpsuit. But if climbing the fourth-longest single-span steel arch bridge in the world is a should-see for out-of-towners and visiting celebrities (Nicole Kidman, Bruce Springsteen and Justin Timberlake have all opted in for the BridgeClimb), then it’s an absolute can’t-miss for locals.",
+"url": "http://www.bridgeclimb.com/"
+},
+{
+"UID": "61",
+"image": "61.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny"],
+"title": "Kayaking in the harbour",
+"description": "No other city can boast such a range of places to go kayaking. Deep gorges, dense bushland, sandy beaches, wandering creeks, spectacular views, mighty sandstone outcrops – Sydney has it all.",
+"url": "https://www.timeout.com/sydney/sport-and-fitness/the-best-kayaking-spots-in-sydney"
+},
+
+{
+"UID": "62",
+"image": "62.jpg",
+"city": "Sydney",
+"keyword":[ "Cloudy", "Rainy", "Windy"],
+"title": "Gallery of New South Wales",
+"description": "Established in 1871, the Art Gallery of New South Wales is the leading museum of art in New South Wales and Sydney, and one of Australia's foremost cultural institutions. It holds significant collections of Australian, European and Asian art, and presents nearly 40 exhibitions annually.",
+"url": "https://www.artgallery.nsw.gov.au/"
+},
+
+
+{
+"UID": "63",
+"image": "63.jpg",
+"city": "Sydney",
+"keyword":[ "Sunny", "Cloudy"],
+"title": "Sydney Seaplanes",
+"description": "Enjoy a bird’s eye view of Sydney Harbour, the spectacular beaches and the world famous Opera House and Harbour Bridge.",
+"url": "http://www.seaplanes.com.au/"
+},
+
+
+
+{
+"UID": "64",
+"image": "64.jpg",
+"city": "Sydney",
+"keyword":[ "Cloudy", "Rainy", "Windy"],
+"title": "The Opera house",
+"description": "Fusing ancient and modernist influences, and situated on a site sacred to the Gadigal people for thousands of years, the sculptural elegance of the Sydney Opera House has made it one of the symbols of twentieth century architecture - a building that, to quote US architect Frank Gehry, “changed the image of an entire country.”",
+"url": "https://www.sydneyoperahouse.com/"
 }
 
 ]	
