@@ -8,7 +8,7 @@
 "UID": "1",
 "image": "1.jpg",
 "city": "Gothenburg",
-"keyword": ["Sunny", "Cloudy", "Rainy, "Windy"],
+"keyword": ["Sunny", "Cloudy", "Rainy", "Windy"],
 "title": "Liseberg",
 "description": "Liseberg is an amusement park located in the district Heden in Gothenburg. The park is run as a public company, wholly owned by the City of Gothenburg. It was opened for the Gothenburg Exhibition May 8, 1923",
 "url": "https://www.liseberg.se/"
@@ -146,7 +146,7 @@
 "city": "Gothenburg",
 "keyword": ["Cloudy", "Rainy", "Windy"],
 "title": "Masthuggskyrkan",
-"description": "Masthuggskyrkan is a church at large back street in the district Stigberget, Gothenburg. The church has a very prominent position on the mountain and is one of the city's major attractions. "Masthuggskyrkan is one of the most urgöteborgska buildings".",
+"description": "Masthuggskyrkan is a church at large back street in the district Stigberget, Gothenburg. The church has a very prominent position on the mountain and is one of the city's major attractions. Masthuggskyrkan is one of the most urgöteborgska buildings.",
 "url": "http://www.svenskakyrkan.se/masthugg"
 },
 
@@ -337,7 +337,7 @@
 "UID": "33",
 "image": "33.jpg",
 "city": "Gothenburg",
-"keyword": ["Cloudy", "Rainy, "Windy"],
+"keyword": ["Cloudy", "Rainy", "Windy"],
 "title": "Göteborgs Naturhistoriska Museeum",
 "description": "Gothenburg Natural History Museum is a natural history museum, located at an altitude of Castle Forest just above Linnéplatsen, a height previously called Olivedalsgatan height or Oakhill.",
 "url": "http://www.gnm.se"
@@ -441,7 +441,7 @@
 "city": "Gothenburg",
 "keyword": ["Cloudy", "Rainy", "Windy"],
 "title": "Gothenburg Escape Game",
-"description": "Gothenburg Escape Game offers adventure game "in real life" that is both challenging and exciting. Perform the challenge by finding clues and solving puzzles within the time limit.",
+"description": "Gothenburg Escape Game offers adventure game \"in real life\" that is both challenging and exciting. Perform the challenge by finding clues and solving puzzles within the time limit.",
 "url": "http://www.gotescape.se/sv/start"
 },
 

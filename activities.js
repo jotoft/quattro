@@ -8,14 +8,10 @@ fs.readFile('activities.json', 'utf8', function (err,data) {
   if (err) {
     return console.log(err);
   }
-  activities = JSON.parse(data);
-  activities = [{name : "bathing", keywords : ["Sunny"]}, {name : "skiing", keywords : ["Cloudy", "Rainy"]}];
+ //  activities = JSON.parse(data);
 });
 
-
-activities = [{name : "bathing", keywords : ["Sunny"]}, {name : "skiing", keywords : ["Cloudy", "Rainy"]}];
-
-
+activities = [];
 function keyword_filter(words, activity)
 {
   for(var i = 0; i < activity.keywords.length; i++ )
